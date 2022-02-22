@@ -6,10 +6,12 @@ html{
 body{
     margin: 0;
     text-align: center;
+    
 }
 
 .First{
     background-color: #C0FEFC;
+    width:100%;
 }
 
 .First img{
