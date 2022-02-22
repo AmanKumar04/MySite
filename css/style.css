@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.First{
+    background-color: #C0FEFC;
+}
+
+.First img{
+    width: 30rem;
+}
+
+.First h1{
+    font-size:8rem;
+    font-family: merienda;
+    margin-top: 0;
+    margin-bottom: 0;
+    color:darkcyan
+}
+
+.First p{
+    font-size: 4rem;
+    font-family: Caveat;
+    margin-top: 0;
+    margin-bottom:1rem;
+    color: darkcyan;
+}
+
+.top{
+    padding-top:1rem;
+    padding-bottom: 0.5rem;
+}
+
+.bottom{
+    padding-bottom:1rem;
+}
+
+.profile img{
+    width:20rem;
+}
+
+.skills img{
+    width: 20rem;
+}
+
+
+.btn {
+    color: #11999E;
+}
+
+h3{
+    color: #11999E;
+}
+
+h2{
+    color:  #66BFBF;
+}
